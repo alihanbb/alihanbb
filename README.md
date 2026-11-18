@@ -39,7 +39,7 @@ I design and build **backend systems end to end** — from the domain model and 
 
 ## 🏗️ How I Design Systems · Sistemleri Nasıl Tasarlıyorum
 
-**EN:** A typical platform I build: an edge layer and a BFF in front, services that own their data, events for facts and queues for commands, and one trace for every request.
+**EN:** A typical platform I build: an edge layer and a BFF in front, services that own their data, events for facts and queues for commands, and one trace for every request.<br/>
 **TR:** Kurduğum tipik bir platform: önde edge katmanı ve BFF, kendi verisine sahip servisler, olaylar için event, komutlar için kuyruk ve her istek için tek bir trace.
 
 ```mermaid
@@ -70,7 +70,7 @@ flowchart LR
     S -. "traces · metrics · logs" .-> OT["OpenTelemetry<br/>Grafana · Jaeger · Prometheus"]
 ```
 
-**EN:** Reliable messaging without distributed transactions — the Outbox pattern I use across my services:
+**EN:** Reliable messaging without distributed transactions — the Outbox pattern I use across my services:<br/>
 **TR:** Dağıtık transaction olmadan güvenilir mesajlaşma — servislerimde kullandığım Outbox kalıbı:
 
 ```mermaid
@@ -89,7 +89,7 @@ sequenceDiagram
     C->>C: Inbox check → process once (idempotent)
 ```
 
-**EN:** Agentic GitOps — AI agents write to Git, never to the cluster; a human approves and Argo CD applies.
+**EN:** Agentic GitOps — AI agents write to Git, never to the cluster; a human approves and Argo CD applies.<br/>
 **TR:** Agentic GitOps — yapay zekâ ajanları cluster'a değil Git'e yazar; insan onaylar, Argo CD uygular.
 
 ```mermaid
