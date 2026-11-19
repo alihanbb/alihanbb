@@ -119,7 +119,7 @@ Engineering is not only about building applications. It is also about exploring 
 ### Messaging & Data
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apachekafka/apachekafka-original.svg" width="44" height="44" alt="Kafka" title="Kafka"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white"/><img src="https://cdn.simpleicons.org/apachekafka/black" width="44" height="44" alt="Kafka" title="Kafka"/></picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rabbitmq/rabbitmq-original.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>
