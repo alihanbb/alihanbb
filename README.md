@@ -112,7 +112,9 @@ Engineering is not only about building applications. It is also about exploring 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt=".NET" title=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nestjs/nestjs-original.svg" width="44" height="44" alt="NestJS" title="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/openapi/openapi-original.svg" width="44" height="44" alt="REST API / OpenAPI" title="REST API / OpenAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL" title="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grpc/grpc-original.svg" width="44" height="44" alt="gRPC" title="gRPC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="44" height="44" alt="React Native" title="React Native"/>
 </p>
 
@@ -123,6 +125,7 @@ Engineering is not only about building applications. It is also about exploring 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rabbitmq/rabbitmq-original.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" height="44" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/elasticsearch/elasticsearch-original.svg" width="44" height="44" alt="Elasticsearch" title="Elasticsearch"/>
 </p>
@@ -133,6 +136,7 @@ Engineering is not only about building applications. It is also about exploring 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/helm/helm-original.svg" width="44" height="44" alt="Helm" title="Helm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/terraform/terraform-original.svg" width="44" height="44" alt="Terraform" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/argocd/argocd-original.svg" width="44" height="44" alt="Argo CD" title="Argo CD"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" title="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions"/>
@@ -142,6 +146,7 @@ Engineering is not only about building applications. It is also about exploring 
 ### Observability & Reliability
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/newrelic" width="44" height="44" alt="New Relic" title="New Relic"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opentelemetry/opentelemetry-original.svg" width="44" height="44" alt="OpenTelemetry" title="OpenTelemetry"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/prometheus/prometheus-original.svg" width="44" height="44" alt="Prometheus" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="44" height="44" alt="Grafana" title="Grafana"/>
